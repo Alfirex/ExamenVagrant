@@ -2,7 +2,7 @@
       · /config
       · Vagrantfile
       · provision.sh
-2- Ves al cygwin y situate en tu proyecto:
+2- Ves a la consola de cygwin y situate en tu proyecto:
       · cd proyecto
       · vagrant up
 3- Ves al navegador y pon:
