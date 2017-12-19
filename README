@@ -1,0 +1,9 @@
+1- Descargamos los ficheros de este repositorio, donde este situado tu cygwin, C:\cygwin64\home\usuario\proyecto :
+      · /config
+      · Vagrantfile
+      · provision.sh
+2- Ves al cygwin y situate en tu proyecto:
+      · cd proyecto
+      · vagrant up
+3- Ves al navegador y pon:
+      · http://localhost:8181/
